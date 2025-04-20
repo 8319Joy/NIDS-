@@ -1,0 +1,3 @@
+https://kzmk0g8iiwogw9tcniic.lite.vusercontent.net/
+
+npx shadcn@2.3.0 add "https://v0.dev/chat/b/Nun8okVZ8Du?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..CYgFIm2_Y86FfU5W.ubC2JSJl0IWYFdHS0Yzmn3rNAah1vMQQ4zrrGQl-KgKOWXcev7xDyRfg.6NK-oZNUxdoyhL_a9V5LSg"

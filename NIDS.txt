@@ -1,0 +1,27 @@
+Requirements for NIDS Code using Binary Classification
+Front-end Requirements:
+1. User Interface: A user-friendly interface to input network traffic data or upload pcap files.
+2. Data Preprocessing: Preprocess network traffic data, such as packet parsing and feature extraction.
+3. Model Integration: Integrate the trained binary classification model into the front-end.
+4. Prediction: Use the model to predict whether the network traffic is normal or malicious.
+5. Visualization: Visualize the prediction results, such as alerts for malicious traffic.
+Back-end Requirements:
+1. Model Training: Train a binary classification model using a suitable algorithm (e.g., XGBoost, DNN) and dataset (e.g., UNSW-NB15, CICIDS2017).
+2. Model Deployment: Deploy the trained model in the back-end, using a suitable framework (e.g., Flask, Django).
+3. API: Create an API to receive network traffic data from the front-end and return prediction results.
+4. Data Storage: Store network traffic data and prediction results in a database.
+5. Security: Implement security measures to protect the back-end and prevent unauthorized access.
+Code Requirements:
+1. Programming Languages: Use suitable programming languages, such as Python for back-end and JavaScript for front-end.
+2. Libraries and Frameworks: Use libraries and frameworks, such as scikit-learn, TensorFlow, and Keras for machine learning, and Flask or Django for back-end development.
+3. Network Traffic Analysis: Use libraries, such as pyshark or scapy, for network traffic analysis and feature extraction.
+4. Model Evaluation: Evaluate the performance of the binary classification model using metrics, such as accuracy, precision, and recall.
+Additional Considerations:
+1. Scalability: Ensure the system can handle large volumes of network traffic data.
+2. Real-time Detection: Implement real-time detection capabilities to identify malicious traffic as it occurs.
+3. Alerting and Notification: Implement alerting and notification mechanisms to inform administrators of malicious traffic.
+4. Continuous Learning: Consider implementing continuous learning capabilities to update the model with new data and improve its performance over time.
+
+
+
+
